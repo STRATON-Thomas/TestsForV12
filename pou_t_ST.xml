@@ -9,6 +9,7 @@
          <sourceSTIL>printCountVar += 1;
 printf(&apos;RUNNING Test - Cycle n°&apos;+any_to_string(printCountVar),printCountVar,0,0,0);
 
+//tests
          </sourceSTIL>
       </pou>
    </programs>
