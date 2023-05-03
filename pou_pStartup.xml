@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<K5project version="1.1">
+   <programs>
+      <pou name="pStartup" kind="program" period="1" phase="0" lge="ST">
+         <vargroup name="pStartup" kind="LOCAL">
+         </vargroup>
+<defines name="pStartup"></defines>
+         <sourceSTIL>// pStartup: this program is called only once before the first cycle
+
+// initialize variables from recipe: &apos;Initial values&apos;
+ApplyRecipeColumn (&apos;Initial values&apos;, 0);
+
+// add your code here
+         </sourceSTIL>
+      </pou>
+   </programs>
+</K5project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<Appli>
+   <Folder Name="Exception programs">
+      <Program Name="pOnBadIndex"/>
+      <Program Name="pOnDivZero"/>
+      <Program Name="pShutDown"/>
+      <Program Name="pStartup"/>
+   </Folder>
+   <Folder Name="Programs">
+      <Program Name="t_FBD"/>
+      <Program Name="t_FFLD"/>
+      <Program Name="t_LD"/>
+      <Program Name="t_ST"/>
+   </Folder>
+   <Folder Name="Watch (for debugging)">
+      <File Name="Soft Scope.SS5"/>
+   </Folder>
+   <Program Name="Haglund"/>
+   <Program Name="maximum"/>
+   <File Name="Initial values.RCP"/>
+   <FieldBus/>
+   <Binding/>
+   <Profiles/>
+   <GlobalDef/>
+   <Vars/>
+   <Types/>
+</Appli>

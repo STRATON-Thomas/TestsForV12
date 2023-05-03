@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<K5project version="1.1">
+   <programs>
+      <pou name="pOnDivZero" kind="subprogram" lge="ST">
+         <vargroup name="pOnDivZero" kind="LOCAL">
+         </vargroup>
+<defines name="pOnDivZero"></defines>
+         <sourceSTIL>// pOnDivZero: this sub program is called in case of a division by zero
+
+// add your code here
+
+
+// to turn the Service in &apos;cycle to cycle&apos; pause mode, use:
+//  CycleStop (TRUE);
+
+// to turn the Service in &apos;fatal error&apos; mode, use:
+//  FatalStop (TRUE);
+         </sourceSTIL>
+      </pou>
+   </programs>
+</K5project>

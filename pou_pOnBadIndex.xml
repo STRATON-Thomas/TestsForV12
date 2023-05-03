@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<K5project version="1.1">
+   <programs>
+      <pou name="pOnBadIndex" kind="subprogram" lge="ST">
+         <vargroup name="pOnBadIndex" kind="LOCAL">
+         </vargroup>
+<defines name="pOnBadIndex"></defines>
+         <sourceSTIL>// pOnBadIndex: called in case of array index out of bounds
+
+         </sourceSTIL>
+      </pou>
+   </programs>
+</K5project>
